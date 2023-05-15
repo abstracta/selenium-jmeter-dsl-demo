@@ -13,7 +13,7 @@
   <artifactId>selenium-jmeter-dsl</artifactId>
 
   <properties>
-    <jmeter-java-dsl.version>1.9</jmeter-java-dsl.version>
+    <jmeter-java-dsl.version>1.10</jmeter-java-dsl.version>
   </properties>
 
   <dependencies>
@@ -45,17 +45,17 @@
     <dependency>
       <groupId>io.micrometer</groupId>
       <artifactId>micrometer-registry-influx</artifactId>
-      <version>1.10.5</version>
+      <version>1.11.0</version>
     </dependency>
     <dependency>
       <groupId>net.bytebuddy</groupId>
       <artifactId>byte-buddy</artifactId>
-      <version>1.14.2</version>
+      <version>1.14.4</version>
     </dependency>
     <dependency>
       <groupId>org.junit.platform</groupId>
       <artifactId>junit-platform-launcher</artifactId>
-      <version>1.9.2</version>
+      <version>1.9.3</version>
     </dependency>
   </dependencies>
 
